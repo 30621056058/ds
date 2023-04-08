@@ -1,0 +1,19 @@
+.footer_inside ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    flex-direction: column;
+    height: 180px;
+}
+/* .footer_inside ul li{
+    flex: 1;
+} */
+.footer_inside ul li div{
+    width: 30px;
+    height:1px;
+    background-color: red;
+}
+.footer{
+    margin-top: 20px;
+}
